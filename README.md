@@ -35,7 +35,7 @@ The structure of this lab — where its files and folders are located
 ├── node_modules/
 ├── package.json
 └── test
-    └── indexTest.js
+    └── indexTest.npm js
 ```
 
 All labs will more or less have the same structure. (And non-lab lessons, for
